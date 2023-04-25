@@ -31,15 +31,3 @@ If you're looking for something to work on, check out the [up-for-grabs](https:/
 The [quick guide to GitHub for Unity](docs/using/quick-guide.md)
 
 More [in-depth information](docs/readme.md)
-
-## License
-
-**[MIT](LICENSE)**
-
-The MIT license grant is not for GitHub's trademarks, which include the logo
-designs. GitHub reserves all trademark and copyright rights in and to all
-GitHub trademarks. GitHub's logos include, for instance, the stylized
-Invertocat designs that include "logo" in the file title in the following
-folder: [IconsAndLogos](src/UnityExtension/Assets/Editor/GitHub.Unity/IconsAndLogos).
-
-Copyright 2015 - 2018 GitHub, Inc.
